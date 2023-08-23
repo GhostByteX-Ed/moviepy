@@ -2,7 +2,7 @@
 from moviepy.editor import *
 
 # loading video dsa gfg intro video
-clip = VideoFileClip("video.webm")
+clip = VideoFileClip("file_example_WEBM_480_900KB.webm")
 
 # clipping of the video
 # getting video for only starting 10 seconds
